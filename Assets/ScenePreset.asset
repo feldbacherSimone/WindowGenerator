@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3648f85ad193ee64c946f872ffc41b4c, type: 3}
+  m_Name: ScenePreset
+  m_EditorClassIdentifier: Assembly-CSharp::ScenePreset
+  name: Test
+  frameObject: {fileID: 797895456473780722, guid: d95edf4395ce26a498a733bf6238a899, type: 3}
+  foregroundElement: {fileID: 3411738668274184294, guid: de180754ecdac62428b75d8afce7fb28, type: 3}
+  middleground: {fileID: 5744917669335493838, guid: ab030b9b1e33e492cbec4a6ec74e4986, type: 3}
+  background: {fileID: 3570053544361563752, guid: 47e7f3118acf22f45ada34cb16a229f2, type: 3}
+  dayTime: 9
+  wind: 1
+  windStrengh: 8.7
